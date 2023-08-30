@@ -1,10 +1,10 @@
 package com.example.pubsubsimple;
 
-public class Hello3 {
+public class Hello4 {
     private String message;
     private String address;
 
-    public Hello3(String message) {
+    public Hello4(String message) {
         this.message = message;
     }
 
